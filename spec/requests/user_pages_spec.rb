@@ -1,5 +1,7 @@
 require 'spec_helper'
 
+# full_title in spec/support/utilities.rb 
+
 describe "User pages" do
 	subject { page } 
 
